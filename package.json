@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/honcharov404/simple-localization-app.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "",
-    "",
-    ""
+  "keywords": [
+    "simple",
+    "localization",
+    "app"
   ],
-  "author": "", // автор (необязательно)
+  "author": "honcharov404",
   "license": "MIT"
 }
